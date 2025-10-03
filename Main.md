@@ -1,4 +1,4 @@
-| Chức vụ 	| Số lượng  	|   	|
+| Chức vụ 	| Số lượng  	| Tình trạng  	|
 |---------	|-----------	|---	|
 | Mbboss  	|    2/2       	|   	|
 | Boss    	|      2/4     	|   	|
