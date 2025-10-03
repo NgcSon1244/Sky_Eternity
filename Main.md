@@ -1,12 +1,7 @@
 | Chức vụ 	| Số lượng  	|   	|
 |---------	|-----------	|---	|
-| Mbboss  	|           	|   	|
-| Mbboss¹ 	|           	|   	|
-| Boss¹   	|           	|   	|
-| Boss²   	|           	|   	|
-| Boss³   	|           	|   	|
-| Pbboss¹ 	|           	|   	|
-| Pbboss² 	|           	|   	|
-| Pbosss³ 	|           	|   	|
-| Editor  	|           	|   	|
-| Member  	|           	|   	|
+| Mbboss  	|    2/2       	|   	|
+| Boss    	|      2/4     	|   	|
+| Pboss 	   |       2/5    	|   	
+| Editor  	|      0/2     	|   	|
+| Member  	|       4/∞  	|   	|
