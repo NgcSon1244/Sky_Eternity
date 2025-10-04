@@ -4,7 +4,7 @@
 | Boss    	|      2/4     	|   :negative_squared_cross_mark:	|
 | Pboss 	   |       1/5    	|   	:negative_squared_cross_mark:
 | Editor  	|      0/2     	|   :negative_squared_cross_mark:	|
-| Mod/Qtv  |.     1/3.     |    :negative_squared_cross_mark:
+| Mod/Qtv  |    1/3    |    :negative_squared_cross_mark:
 | Member  	|       12/∞  	|   :negative_squared_cross_mark:	|
 
 
